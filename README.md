@@ -1,13 +1,14 @@
-## Team Profile Generator
+# Team Profile Generator
 
-#Website: https://jarellano562.github.io/teams/
+### Website: 
+https://jarellano562.github.io/teams/
    
 ## Description
 
 A Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Unit tests were used for each part of the code to ensure it passes.   
 
   
-The full movie file showing functionality of the application can be found [here](./src/functionality-video.webm)  
+The full movie file showing functionality of the application can be found [HERE](https://drive.google.com/file/d/1P-VmZhPipH35ebCaTcOsqUibLdhzSxx1/view?usp=sharing)  
   
 ## User Story
   
@@ -44,6 +45,7 @@ The follwoing image shows the web application's appearance and functionality
 ![](./src/mockup.png)
 
 ## Table of Contents
+- [Website](#website)
 - [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
